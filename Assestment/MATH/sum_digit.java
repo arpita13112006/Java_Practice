@@ -1,4 +1,4 @@
-package Assestment;
+package Assestment.MATH;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Assestment;
+package Assestment.MATH;
 import java.util.*;
 public class num_check {
     public static void main(String[] args) {
